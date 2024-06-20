@@ -1,1 +1,7 @@
 # CS210-Repo
+### Chada Clock Summary
+In the project for Chada Tech, I created a C++ program to display both a 12-hour and a 24-hour clock simultaneously, as well as addressing the requirement to meet the international standard ISO 8601. The program allowed users to adjust the time through a menu-driven interface. I implemented the clock functionality using a class structure to encapsulate the behavior and data, which made the design modular. I was able to accurately design and implement the clock logic, ensuring the program handled time adjustments correctly.
+
+However, there are areas for improvement. Enhancing the input handling with validation would make the program more solid. Modularizing the menu processing logic would improve readability and maintainability. Adding error handling with try-catch blocks would increase the program's reliability. The most challenging part was synchronizing the 12-hour and 24-hour clocks, which required meticulous tracking of time increments and decrements.
+
+This project allowed me to practice my object-oriented programming skills. The time management algorithms I developed are applicable in various applications requiring time tracking. To ensure maintainability, readability, and adaptability, I designed the code with a clear class structure, used descriptive function names and comments, and separated the clock functionality from user interaction logic.
